@@ -1,0 +1,12 @@
+/*
+#lists {
+	.dashboard-list {
+	
+	h3 {
+	font-size: 18pt;
+	}
+}
+}
+*/
+body{background-color:#fff}@media screen and (min-width: 800px){.tab-content{ background-color:#f1f0ef}.tab-content button{background-color:#3f3f40;border-radius:5px;color:#fff;border-width:0;font-size:9pt;margin:2%}.tab-content .c3 line,.tab-content .c3-grid line{stroke:#A04545}.tab-content .c3 line,.tab-content .c3 path{stroke-opacity:0}.tab-content .chart-mobile{display:none}}.subtitle{padding:3%;background-color:#f1f0ef}h3{font-size:20pt}#lists .dashboard-list{float:left;display:inline-block;float:left;display:inline-block;width:44%;margin:3%}#lists .dashboard-list table{width:100%}#lists .dashboard-list h3{font-size:25pt}.tabpanel{clear:both}@media screen and (max-width: 800px){.tab-content.chart-mobile.table{ display:block}.th{border:solid;color:#000}.chart-mobile{padding:3%;background-color:#f1f0ef;letter-spacing:3%}.chart-today{display:none}button{display:none}#lists .dashboard-list{width:100%}}.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover{background-color:#f1f0ef;border:1px solid #ddd;border-bottom-color:transparent;cursor:default;font-size:10pt}.nav-tabs>li>a{margin-right:2px;line-height:1.42857;border:1px solid transparent;border-radius:4px 4px 0 0;font-size:10pt}.c3-legend-background{opacity:.75;fill:#fff;stroke:#d3d3d3;stroke-width:1;border-radius:9px;padding-bottom:40px}
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
